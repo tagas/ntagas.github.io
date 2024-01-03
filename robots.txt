@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ntagas.github.io/sitemap.xml
+Sitemap: https://tagas.github.io/sitemap.xml
